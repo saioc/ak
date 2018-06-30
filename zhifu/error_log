@@ -1,0 +1,21 @@
+[30-Jun-2018 00:00:28 UTC] PHP Warning:  include(./head.php): failed to open stream: No such file or directory in /home/yundibei/public_html/zhifu.icu/index.php on line 3
+[30-Jun-2018 00:00:28 UTC] PHP Warning:  include(./head.php): failed to open stream: No such file or directory in /home/yundibei/public_html/zhifu.icu/index.php on line 3
+[30-Jun-2018 00:00:28 UTC] PHP Warning:  include(): Failed opening './head.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yundibei/public_html/zhifu.icu/index.php on line 3
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: conf in /home/yundibei/public_html/zhifu.icu/index.php on line 239
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: conf in /home/yundibei/public_html/zhifu.icu/index.php on line 247
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: conf in /home/yundibei/public_html/zhifu.icu/index.php on line 253
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: conf in /home/yundibei/public_html/zhifu.icu/index.php on line 260
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: count2 in /home/yundibei/public_html/zhifu.icu/index.php on line 279
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: count2 in /home/yundibei/public_html/zhifu.icu/index.php on line 279
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: count1 in /home/yundibei/public_html/zhifu.icu/index.php on line 290
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: count1 in /home/yundibei/public_html/zhifu.icu/index.php on line 290
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: count4 in /home/yundibei/public_html/zhifu.icu/index.php on line 301
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: count4 in /home/yundibei/public_html/zhifu.icu/index.php on line 301
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: count3 in /home/yundibei/public_html/zhifu.icu/index.php on line 312
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: count3 in /home/yundibei/public_html/zhifu.icu/index.php on line 312
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: conf in /home/yundibei/public_html/zhifu.icu/index.php on line 324
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: conf in /home/yundibei/public_html/zhifu.icu/index.php on line 324
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: conf in /home/yundibei/public_html/zhifu.icu/index.php on line 338
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: conf in /home/yundibei/public_html/zhifu.icu/index.php on line 355
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: conf in /home/yundibei/public_html/zhifu.icu/index.php on line 360
+[30-Jun-2018 00:00:28 UTC] PHP Notice:  Undefined variable: conf in /home/yundibei/public_html/zhifu.icu/index.php on line 362
